@@ -1,0 +1,5 @@
+
+*.ini
+*.bin
+MyProjectGit/MyProjectGit.uproject
+MyProjectGit/Saved/Logs/MyProjectGit.log
